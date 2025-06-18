@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007186781869",
+    "project_id": "ai-legal-advisor-822eb",
+    "storage_bucket": "ai-legal-advisor-822eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007186781869:android:cfc62e8ecb9f579bd1c824",
+        "android_client_info": {
+          "package_name": "com.ai_legal_advisor.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeKVsPycuOG7kLUw0oaPFch1PVjM39wXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
