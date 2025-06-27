@@ -60,12 +60,12 @@ The process is as follows:
 
 ### 🖼️ Visual Demo
 
-*(A professional GIF showing the system's UI in action is mandatory for this section. It is the most effective way to demonstrate value instantly.)*
 
 <div align="center">
 
-![Animation showing the Themis interface where a user asks a legal question and receives a clear, source-cited answer.](https://placehold.co/800x450/1a1a1a/FFFFFF/gif?text=Live%20Application%20Demo)
-
+<a href="https://ibb.co/fdqrZ3j6"><img src="https://i.ibb.co/RTYQtXRr/Whats-App-Image-2025-06-27-at-04-48-00-b47757d4.jpg" alt="Whats-App-Image-2025-06-27-at-04-48-00-b47757d4" border="0"></a>
+<a href="https://ibb.co/PbTnPTt"><img src="https://i.ibb.co/yMh1ZhV/Whats-App-Image-2025-06-27-at-04-48-01-12130f06.jpg" alt="Whats-App-Image-2025-06-27-at-04-48-01-12130f06" border="0"></a>
+<a href="https://ibb.co/9mndyQ37"><img src="https://i.ibb.co/Fk6d8RqF/Untitled-design-10.png" alt="Untitled-design-10" border="0"></a>
 </div>
 
 ---
